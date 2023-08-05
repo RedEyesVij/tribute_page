@@ -19,7 +19,7 @@ li, #oblique  {
 
 .img-div {
     width: 100%;
-    background-color: azure;
+     background-color: azure;
     /* margin: auto; */
     /* padding: 10px; */
 }
@@ -35,18 +35,18 @@ span {
 .oblique {
     font-style: oblique;
     padding-left: 25px;
-    background-color: blanchedalmond;
+    /* background-color: blanchedalmond; */
 }
 
 .conteiner {
     margin: 0 auto;
-    background-color: skyblue;
+    /* background-color: skyblue; */
     max-width: 600px;
     /* text-align: left; */
 }
 
 .header {
-    background-color: pink;
+    /* background-color: pink; */
 }
 
 .center-items {
