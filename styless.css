@@ -19,9 +19,11 @@ li, #oblique  {
 ul {
     line-height: 5;
 }
+
 .img-div {
     width: 100%;
      background-color: white;
+     padding: 10px;
 }
 
 .img {
