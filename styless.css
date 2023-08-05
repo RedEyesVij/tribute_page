@@ -13,8 +13,7 @@ h3 {
 }
 
 li, #oblique  {
-    /* text-align: left; */
-   line-height: 2;
+       line-height: 2;
 }
 
 ul {
@@ -22,9 +21,7 @@ ul {
 }
 .img-div {
     width: 100%;
-     background-color: azure;
-    /* margin: auto; */
-    /* padding: 10px; */
+     background-color: white;
 }
 
 .img {
@@ -38,7 +35,6 @@ span {
 .oblique {
     font-style: oblique;
     padding-left: 25px;
-    /* background-color: blanchedalmond; */
 }
 
 .conteiner {
