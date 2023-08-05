@@ -10,7 +10,6 @@ body {
 
 h3 {
     text-align: center;
-    /* justify-content: center; */
 }
 
 li, #oblique  {
@@ -44,13 +43,7 @@ span {
 
 .conteiner {
     margin: 0 auto;
-    /* background-color: skyblue; */
     max-width: 600px;
-    /* text-align: left; */
-}
-
-.header {
-    /* background-color: pink; */
 }
 
 .center-items {
@@ -63,9 +56,6 @@ span {
     padding-bottom: 20px;
 }
 
-p {
-
-}
 footer {
     text-align: center;
 }
