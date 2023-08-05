@@ -15,8 +15,12 @@ h3 {
 
 li, #oblique  {
     /* text-align: left; */
+   line-height: 2;
 }
 
+ul {
+    line-height: 5;
+}
 .img-div {
     width: 100%;
      background-color: azure;
