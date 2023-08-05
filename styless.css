@@ -8,6 +8,11 @@ body {
     padding-right: 5px;
 }
 
+h3 {
+    text-align: center;
+    /* justify-content: center; */
+}
+
 li, #oblique  {
     /* text-align: left; */
 }
@@ -20,16 +25,17 @@ li, #oblique  {
 }
 
 .img {
-    width: 100%;
-    max-width: 900px;
+    max-width: 100%;
 }
 
 span {
     font-weight: bold;
 }
 
-#oblique {
+.oblique {
     font-style: oblique;
+    padding-left: 25px;
+    background-color: blanchedalmond;
 }
 
 .conteiner {
@@ -50,4 +56,12 @@ span {
 }
 .center-self {
     margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+p {
+
+}
+footer {
+    text-align: center;
 }
